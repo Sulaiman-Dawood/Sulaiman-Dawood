@@ -1,16 +1,28 @@
-## Hi there 👋
+# Sulaiman Dawood
 
-<!--
-**Sulaiman-Dawood/Sulaiman-Dawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Analyst | BI Analyst | Data Enthusiast**
 
-Here are some ideas to get you started:
+I turn complex datasets into actionable insights and visual stories. Using tools like Python, SQL, and modern BI tools, I build data-driven dashboards and analyses that support decision-making and reveal hidden patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tools & Skills
+
+**Languages & Libraries:**  Python, SQL, Pandas, NumPy, SciPy
+
+**Visualization & BI:**  Matplotlib, Seaborn, Plotly, Power BI, Tableau, Looker Studio, Excel
+
+**Databases:**  PostgreSQL, SQL Server, SQLite
+
+**Data Concepts:**  Data cleaning & preprocessing, Statistical analysis, EDA, Dashboard development
+
+---
+
+## 📫 Contact & Links
+
+* **Portfolio:** [sulaiman.page](https://www.sulaiman.page)  
+* **GitHub:** https://github.com/sulaiman-dawood  
+* **LinkedIn:** https://linkedin.com/in/5ulaiman  
+* **Email:** sulaiman9553@gmail.com  
+
+---
